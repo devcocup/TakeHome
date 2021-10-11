@@ -1,8 +1,8 @@
-# Atllas Software Engineering Take-Home Exercise
+# Crowdbotics Software Engineering Take-Home Exercise
 
-🌟 Welcome to the Atllas take-home coding exercise! 🌟
+🌟 Welcome to the Crowdbotics take-home coding exercise! 🌟
 
-This full-stack exercise involves building a form component in React that also makes a request to the Node.js/Express.js backend. We imagine you should spend around _four hours at minimum_ to implement this feature, but want to emphasize that there is no specific deadline, or ticking clock for the implementation time. You can feel free to break the work up over multiple days. The entire point of this exercise is to get a good sense of how you build software.
+This full-stack exercise involves building a form component in React that also makes a request to the Node.js/Express.js backend. We imagine you should spend around _four hours at minimum_ to implement this feature, but want to emphasize that there is no specific deadline, or ticking clock for the implementation time. You can feel free to break the work up over 3 days. The entire point of this exercise is to get a good sense of how you build software.
 
 Also, please keep in mind that you are not specifically limited to four hours. If you want to spend more time than that, using this as an opportunity to learn a new library or technology, or just generally making it more awesome, you are of course free to do so.
 
@@ -59,12 +59,12 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 
 ## Submitting the Assignment
 
-When you have finished the assignment, create a bundle of your work by running `npm run bundle` in the repo root.
-
-This generates a bundle file called `atllas-take-home-exercise` based on your local master branch. Return that file to us via [this google form](https://forms.gle/gCewbYQd5acHLW2p8), and we'll review your code within 1-2 days.
+When you have finished the assignment, put it as a private repository on Github. Then, invite the user `john.kim@crowdbotics.com` into the repository. Send us the link to it as well in case the invitation does not work.
+We'll review your code within 1-2 days.
 
 ## Questions
 
-If you have any questions or concerns please email Austin at [austin@atllas.com](mailto:austin@atllas.com?subject=%5BAtllas%20Take-Home%5D). Please make sure you include ``[Atllas Take-Home]`` in the subject line.
+If you have any questions or concerns please email Austin at [john.kim@crowdbotics.com](mailto:john.kim@crowdbotics.com
+?subject=%5BCrowdbotics%20Take-Home%5D). Please make sure you include ``[Crowdbotics Take-Home]`` in the subject line.
 
 Thank you and good luck! 🙏

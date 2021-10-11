@@ -8,6 +8,5 @@ if (!commits) {
   process.exit(1);
 }
 
-let result = sh('git bundle create atllas-take-home.bundle HEAD master');
-console.log('Nice work, you created atllas-take-home.bundle.');
-console.log('Please email it to info@atllas.com')
+let result = sh('git bundle create crowdbotics-take-home.bundle HEAD master');
+console.log('Nice work, you created crowdbotics-take-home.bundle.');

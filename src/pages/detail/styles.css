@@ -1,0 +1,35 @@
+.agent-detail-container {
+    display: flex;
+    padding: 20px;
+    flex-direction: row;
+}
+
+.agent-avatar {
+    width: 20rem;
+    height: auto;
+    object-fit: cover;
+}
+
+.agent-info {
+    padding: 20px;
+}
+
+.agent-info-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.agent-info-item-label {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.back {
+    position: absolute;
+    left: 40px;
+}
+
+.back-label {
+    color: tomato;
+}

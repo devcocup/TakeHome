@@ -1,0 +1,47 @@
+.create-agent-container {
+    padding: 20px;
+}
+
+.toolbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.button {
+    width: 110px;
+    height: 30px;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cancel {
+    background-color: cadetblue;
+}
+
+.save {
+    background-color: tomato;
+    margin-left: 20px;
+}
+
+.button-text {
+    color: white;
+}
+
+.agent-info-input {
+    flex: 1;
+    border-radius: 8px;
+    padding: 8px 20px;
+}
+
+.about-me {
+    border-radius: 8px;
+    height: 300px;
+    width: 90%;
+    padding: 20px;
+}
+
